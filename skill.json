@@ -1,0 +1,35 @@
+{
+  "name": "genpark-personal-agent-dual-cognition-orchestrator-skill",
+  "version": "1.0.0",
+  "description": "Master dual-process cognitive orchestrator uniting Meta ambient perception, Muse episodic memory, Instinct proactive agency, and Jev System-1 decision routing.",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "meta",
+    "muse",
+    "instinct",
+    "jev",
+    "dual-cognition",
+    "personal-agent",
+    "orchestration",
+    "mcp"
+  ],
+  "tools": [
+    {
+      "name": "orchestrate_personal_turn",
+      "description": "Execute unified personal agent turn arbitrating between System 1 reflex and System 2 planning."
+    },
+    {
+      "name": "evaluate_cognitive_budget",
+      "description": "Monitor and cap token expenditure and user interruption frequency."
+    },
+    {
+      "name": "synthesize_ambient_decision_packet",
+      "description": "Compile ambient sensor inputs, episodic context, and typed actions into a single decision packet."
+    },
+    {
+      "name": "run_benchmark_dual_cognition",
+      "description": "Run comprehensive end-to-end dual-process cognitive benchmark."
+    }
+  ]
+}
